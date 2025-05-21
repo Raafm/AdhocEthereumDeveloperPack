@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+}
+
+#text-input {
+  padding: 0.5rem;
+  width: 200px;
+}
+
+#check-btn {
+  padding: 0.5rem 1rem;
+  margin-left: 0.5rem;
+}
+
+#result {
+  margin-top: 1rem;
+  font-weight: bold;
+}
